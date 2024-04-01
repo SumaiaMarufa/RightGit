@@ -97,7 +97,7 @@ head{
 ## Image syntax
 
 
-<img src=" ./image/my photo.jpeg" width="300" height="300" titel= " Profile Image">
+<img src=" ./image/my photo.JPEG" width="300" height="300" titel= " Profile Image">
 
 <!-- emoji add = copy + paste (c+p)-->
 
